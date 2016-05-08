@@ -9,6 +9,7 @@ if ($_SERVER["QUERY_STRING"] != null ){
 ?>
 <html>
 <head>
+<meta charset="utf-8" />
 <title>Fortunes en español</title>
 </head>
 <body>
