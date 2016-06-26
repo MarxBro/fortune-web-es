@@ -10,6 +10,9 @@ if ($_SERVER["QUERY_STRING"] != null ){
 <html>
 <head>
 <meta charset="utf-8" />
+<meta name="description" content="Fortunes en español salidas del comando Linux: frases aleatorias para cada visitante.">
+<meta name="keywords" content="fortunes, español, linux, azar, random, frases, aleatorias, comando">
+<meta name="author" content="MarxBro">
 <title>Fortunes en español</title>
 </head>
 <body>
